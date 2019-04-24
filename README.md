@@ -48,6 +48,7 @@
 1. [服务器获取真实客户端 IP \[ X-Forwarded-For \]](https://blog.csdn.net/weixin_42075590/article/details/80723529)
 1. [现代IM系统中的消息系统架构 - 架构篇](https://www.toutiao.com/a6680340703756681739)
 
+<br />
 
 ### SSH远程连接Linux服务器
 一般两种：
@@ -57,6 +58,8 @@
 阿里云服务器备案：进入官方主页（https://www.aliyun.com），然后把页面拉到最底下，黑色区域中，“账户管理”下的第二个就是“备案管理”。
 
 如果在Ubuntu上安装GCC或使用`sudo apt-get install build-essential`失败，则需要先执行一下`sudo apt-get update`，更新之后再执行安装命令。
+
+<br />
 
 ### 安装LLVM-Clang
 
@@ -68,6 +71,8 @@ sudo apt-get install clang
 sudo apt-get install libdispatch-dev
 ```
 从GCC 8起，Clang 6起可以使用`-std=gnu17`标准。
+
+<br />
 
 ### C语言中，在控制台中读取一行输入命令字符串
 
@@ -81,11 +86,15 @@ sudo apt-get install libdispatch-dev
 ```
 以上代码只需要包含`<stdio.h>`头文件即可。这里需要注意的是，getline的第二个参数不能为空。
 
+<br />
+
 ## 使用服务器连接上网三步走
 
 1. 购买域名
 2. 选购网络主机（Web Host）
 3. 告诉注册商（Registrar）你的DNS服务器
+
+<br />
 
 ### ANAME与CNAME
 
@@ -94,6 +103,8 @@ A记录是将域名直接映射到IP地址。CNAME则是将域名映射到另一
 
 在一个URL中，IP地址后面的冒号跟着的一个号为**端口号（port）**。它是一个虚拟概念，互联网中有一些约定成俗的协定：比如**80**表示HTTP这个服务；**25**表示邮箱或SMTP（简单邮件传输协议）；22表示SSH；21表示FTP等等。端口号是电脑真正要关心的。一般URL中不会有`:80`，因为这个是默认值。端口号从0到1023是被保留的，我们不能自己定义使用；而1024到65000都可以随便使用。
 有时我们需要在电脑上同时运行多个服务器做不同的事，有时在企业中就需要用到不同的端口号。不同服务器由不同人来管理，使用不同工具，因此只用一个端口号到URL也许并不是一个好的尝试。
+
+<br />
 
 ### 配置Apache服务器，PHP代码不被外界读到
 
