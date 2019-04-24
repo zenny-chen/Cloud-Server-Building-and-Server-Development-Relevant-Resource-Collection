@@ -42,6 +42,7 @@
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
 1. [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
 1. [非阻塞 I/O 和多路复用+select、poll、epoll模型详解](https://www.toutiao.com/i6554223409138500110)
+1. [如果这篇文章说不清epoll的本质，那就过来掐死我吧！](https://www.toutiao.com/a6683264188661367309)
 1. C语言将控制台输出内容转存到指定文件：`freopen(filePath, "w", stdout);`。用完之后再用`fclose`关闭文件即可。在转存过程中，控制台内容仍然会输出。
 1. [Http 请求头 Range](https://www.cnblogs.com/1995hxt/p/5692050.html)
 1. [服务器获取真实客户端 IP \[ X-Forwarded-For \]](https://blog.csdn.net/weixin_42075590/article/details/80723529)
