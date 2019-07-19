@@ -51,6 +51,7 @@
 1. [太厉害了，终于有人能把TCP/IP 协议讲的明明白白了](https://www.toutiao.com/a6703063991427531267)
 1. [Wi-Fi 6来了 需要现在就更新家里的路由器吗？](https://www.toutiao.com/i6702807269836325384)
 1. [同一端口，如何区分不同的socket](https://www.toutiao.com/i6710950746893844999)
+1. [程序员要搞明白CDN，这篇应该够了](https://www.toutiao.com/a6715180241142153735)
 
 <br />
 
