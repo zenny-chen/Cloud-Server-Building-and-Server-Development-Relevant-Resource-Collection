@@ -10,6 +10,7 @@
 1. [Linux 下载文件命令](https://blog.csdn.net/hitabc141592/article/details/7561239)
 1.  [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
 1.  [Linux下的tar压缩解压缩命令详解](https://www.cnblogs.com/qq78292959/archive/2011/07/06/2099427.html)
+1. Linux下使用zip来压缩文件夹：`zip -r dst_file.zip src_folder_path`
 1.  [Linux下的mv命令](https://www.cnblogs.com/peida/archive/2012/10/27/2743022.html)
 1.  [vi 常用命令行](https://www.cnblogs.com/sunormoon/archive/2012/02/10/2345326.html)（文件保存退出一般使用`:x`命令）
 1. [Linux文件查找命令](https://blog.csdn.net/qq_27517377/article/details/78870293)
