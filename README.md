@@ -6,21 +6,21 @@
 1. [阿里云用户指南](https://help.aliyun.com/document_detail/25429.html?spm=a2c4g.11186623.6.623.51332529mpuPtf)
 1. [使用SSH密钥对连接Linux实例](https://help.aliyun.com/document_detail/51798.html)
 1. [SSH连接下复制远程Linux服务器文件到本地](https://www.cnblogs.com/zhuangliu/p/7610530.html)（这里需要注意的是，应该是在本地机器上执行scp命令，而不是在用SSH连接到的远程服务器上。此外，如果远程服务器需要密钥对进行登录，则还需要加上 `-i xxx.pem` 命令选项。）
-1.  [SCP 命令](https://www.cnblogs.com/hitwtx/archive/2011/11/16/2251254.html)
+1. [SCP 命令](https://www.cnblogs.com/hitwtx/archive/2011/11/16/2251254.html)
 1. [Linux 下载文件命令](https://blog.csdn.net/hitabc141592/article/details/7561239)
-1.  [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
-1.  [Linux下的tar压缩解压缩命令详解](https://www.cnblogs.com/qq78292959/archive/2011/07/06/2099427.html)
+1. [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
+1. [Linux下的tar压缩解压缩命令详解](https://www.cnblogs.com/qq78292959/archive/2011/07/06/2099427.html)
 1. Linux下使用zip来压缩文件夹：`zip -r dst_file.zip src_folder_path`
-1.  [Linux下的mv命令](https://www.cnblogs.com/peida/archive/2012/10/27/2743022.html)
-1.  [vi 常用命令行](https://www.cnblogs.com/sunormoon/archive/2012/02/10/2345326.html)（文件保存退出一般使用`:x`命令）
+1. [Linux下的mv命令](https://www.cnblogs.com/peida/archive/2012/10/27/2743022.html)
+1. [vi 常用命令行](https://www.cnblogs.com/sunormoon/archive/2012/02/10/2345326.html)（文件保存退出一般使用`:x`命令）
 1. [Linux文件查找命令](https://blog.csdn.net/qq_27517377/article/details/78870293)
-1.  [Linux系统下查看文件与磁盘空间大小](https://www.cnblogs.com/adolfmc/archive/2013/02/16/2913801.html)
+1. [Linux系统下查看文件与磁盘空间大小](https://www.cnblogs.com/adolfmc/archive/2013/02/16/2913801.html)
 1. [Ubuntu下安装LAMP](https://help.ubuntu.com/community/ApacheMySQLPHP)（LAMP存放网页的默认路径为：`/var/www/html/`）
 1. [XAMPP官方网站](https://www.apachefriends.org/index.html)
 1. [Ubuntu安装并运行XAMPP](http://wiki.ubuntu.com.cn/Xampp)（XAMPP存放网页的默认路径为：`/opt/lampp/htdocs/`）
 1. [Ubuntu系统下通过Clang编译器编写Objective-C](https://blog.csdn.net/zenny_chen/article/details/52507022)
-1.  [android APP实现更新 PHP后台服务器](http://www.bieryun.com/2558.html)
-1.  [使程序在Linux下后台运行 （关掉终端继续让程序运行的方法）](https://www.cnblogs.com/little-ant/p/3952424.html)
+1. [android APP实现更新 PHP后台服务器](http://www.bieryun.com/2558.html)
+1. [使程序在Linux下后台运行 （关掉终端继续让程序运行的方法）](https://www.cnblogs.com/little-ant/p/3952424.html)
 1. Linux下生成动态库使用` -fPIC -shared`编译选项，并且动态库的命名规则为：lib<lib-name>.so。加载动态库时使用`export LD_LIBRARY_PATH=`导出动态库所在路径。
 1. Ubuntu下安装libz库：`sudo apt-get install zlib1g-dev`，然后使用`-lz`去连接。
 1. Ubuntu下安装BSD库：`sudo apt-get install libbsd-dev`，然后使用`-lbsd`去连接。此外，在`<bsd/stdlib.h>`中可使用 **arc4random** 等函数。
@@ -38,6 +38,7 @@
 1. [了解Nginx](https://www.toutiao.com/a6648408415490032131)
 1. [SQL 查询优化原理与 Volcano Optimizer 介绍](https://www.toutiao.com/a6637639566792589832)
 1. [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
+1. [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
 1. [Web常见安全漏洞-SQL注入](https://www.toutiao.com/a6642850219375460868)
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
