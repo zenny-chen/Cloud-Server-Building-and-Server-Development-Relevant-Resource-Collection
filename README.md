@@ -39,6 +39,7 @@
 1. [SQL 查询优化原理与 Volcano Optimizer 介绍](https://www.toutiao.com/a6637639566792589832)
 1. [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
 1. [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
+1. [SQLite3速度慢，每秒只能执行几十次INSERT？](https://www.toutiao.com/a6731130448530899463)
 1. [Web常见安全漏洞-SQL注入](https://www.toutiao.com/a6642850219375460868)
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
