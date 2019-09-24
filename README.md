@@ -46,7 +46,7 @@
 1. [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
 1. [非阻塞 I/O 和多路复用+select、poll、epoll模型详解](https://www.toutiao.com/i6554223409138500110)
 1. [如果这篇文章说不清epoll的本质，那就过来掐死我吧！](https://www.toutiao.com/a6683264188661367309)
-1. C语言将控制台输出内容转存到指定文件：`freopen(filePath, "w", stdout);`。用完之后再用`fclose`关闭文件即可。在转存过程中，控制台内容仍然会输出。
+1. [支撑百万并发的“零拷贝”技术，你了解吗？](https://www.toutiao.com/a6740157590468035085/)
 1. [Http 请求头 Range](https://www.cnblogs.com/1995hxt/p/5692050.html)
 1. [服务器获取真实客户端 IP \[ X-Forwarded-For \]](https://blog.csdn.net/weixin_42075590/article/details/80723529)
 1. [现代IM系统中的消息系统架构 - 架构篇](https://www.toutiao.com/a6680340703756681739)
@@ -67,33 +67,6 @@
 阿里云服务器备案：进入官方主页（https://www.aliyun.com），然后把页面拉到最底下，黑色区域中，“账户管理”下的第二个就是“备案管理”。
 
 如果在Ubuntu上安装GCC或使用`sudo apt-get install build-essential`失败，则需要先执行一下`sudo apt-get update`，更新之后再执行安装命令。
-
-<br />
-
-### 安装LLVM-Clang
-
-```shell
-sudo apt-get install llvm
-
-sudo apt-get install clang
-
-sudo apt-get install libdispatch-dev
-```
-从GCC 8起，Clang 6起可以使用`-std=gnu17`标准。
-
-<br />
-
-### C语言中，在控制台中读取一行输入命令字符串
-
-```c
-    char *contents = NULL;
-    size_t initLen = 0;
-    // contents最后会包含一个换行符，这也就是意味着如果用户仅输入一个回车，
-    // 那么contents中就一个换行符，长度为1。
-    ssize_t contentLength = getline(&contents, &initLen, stdin);
-    printf("Content length is: %zd, content is: %s", contentLength, contents);
-```
-以上代码只需要包含`<stdio.h>`头文件即可。这里需要注意的是，getline的第二个参数不能为空。
 
 <br />
 
