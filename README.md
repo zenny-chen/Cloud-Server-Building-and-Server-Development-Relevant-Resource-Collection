@@ -1,7 +1,7 @@
 ### 有用的参考链接
 
 1. [用亚马逊云建代理服务器](https://www.cnblogs.com/vamei/p/5302707.html)
-1. [How to use ShadowsocksX on Mac](https://www.sednax.com/faq-0.php)（step 4右边那里选edit Servers,然后添加一个，服务名填 ***<亚马逊服务器上配置的代理服务器域名>***，端口填8050，加密方式选chacha20，密码填之前所配置的密码）
+1. [How to use ShadowsocksX on Mac](https://www.sednax.com/faq-0.php)（step 4右边那里选edit Servers,然后添加一个，服务名填 ***<亚马逊服务器上配置的代理服务器域名>*** ，端口填8050，加密方式选chacha20，密码填之前所配置的密码）
 1. [阿里云建站教程](https://help.aliyun.com/document_detail/57160.html?spm=a2c4g.11186623.6.826.1fb27aeehHNuFX)
 1. [阿里云用户指南](https://help.aliyun.com/document_detail/25429.html?spm=a2c4g.11186623.6.623.51332529mpuPtf)
 1. [使用SSH密钥对连接Linux实例](https://help.aliyun.com/document_detail/51798.html)
@@ -60,6 +60,7 @@
 <br />
 
 ### SSH远程连接Linux服务器
+
 一般两种：
 使用非标准端口：ssh aaa.bbb.ccc.ddd -p 65525 -l user_name
 使用标准端口，比如连接阿里云服务器：sudo ssh root@aaa.bbb.ccc.ddd
@@ -100,4 +101,6 @@ SuexecUserGroup malan malan
     suPHP_UserGroup malan malan
 </Directory>
 ```
+
 这是一个web server模块，我们可以很容易地安装到服务器上。这里，malan账户内的任何代码由nobody或web等用户执行时，实际上都不是由服务器，而是由malan个人执行。所以要注意尽量分离这些账户，避免出问题。这是和共享网络主机公司密切相关的问题。如果有自己的单独的服务器或VPS则不存在这种问题了。
+
