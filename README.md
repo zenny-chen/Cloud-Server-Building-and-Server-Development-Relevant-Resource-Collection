@@ -63,8 +63,6 @@
 
 阿里云服务器备案：进入官方主页（https://www.aliyun.com），然后把页面拉到最底下，黑色区域中，“账户管理”下的第二个就是“备案管理”。
 
-如果在Ubuntu上安装GCC或使用`sudo apt-get install build-essential`失败，则需要先执行一下`sudo apt-get update`，更新之后再执行安装命令。
-
 <br />
 
 ## 使用服务器连接上网三步走
