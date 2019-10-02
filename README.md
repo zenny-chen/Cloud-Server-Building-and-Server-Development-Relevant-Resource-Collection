@@ -41,7 +41,6 @@
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
 1. [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
-1. [如果这篇文章说不清epoll的本质，那就过来掐死我吧！](https://www.toutiao.com/a6683264188661367309)
 1. [支撑百万并发的“零拷贝”技术，你了解吗？](https://www.toutiao.com/a6740157590468035085/)
 1. [Http 请求头 Range](https://www.cnblogs.com/1995hxt/p/5692050.html)
 1. [服务器获取真实客户端 IP \[ X-Forwarded-For \]](https://blog.csdn.net/weixin_42075590/article/details/80723529)
