@@ -51,6 +51,8 @@
 1. [同一端口，如何区分不同的socket](https://www.toutiao.com/i6710950746893844999)
 1. [程序员要搞明白CDN，这篇应该够了](https://www.toutiao.com/a6715180241142153735)
 1. [TCP/IP协议、HTTP协议、SOCKET通讯详解](https://www.toutiao.com/a6723084045455983107)
+1. [CentOS7 SELinux似乎不遵守MCS类别](http://www.voidcn.com/article/p-fwwjvxnf-bub.html)
+1. [译」Linux下SELinux卡通图解，豁然开悟](https://www.toutiao.com/a6745339611385430531/)
 
 <br />
 
