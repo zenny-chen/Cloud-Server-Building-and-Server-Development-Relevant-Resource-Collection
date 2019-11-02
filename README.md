@@ -9,6 +9,7 @@
 1. [How to use ShadowsocksX on Mac](https://www.sednax.com/faq-0.php)（step 4右边那里选edit Servers,然后添加一个，服务名填 ***<亚马逊服务器上配置的代理服务器域名>*** ，端口填8050，加密方式选chacha20，密码填之前所配置的密码）
 1. [阿里云建站教程](https://help.aliyun.com/document_detail/57160.html?spm=a2c4g.11186623.6.826.1fb27aeehHNuFX)
 1. [阿里云用户指南](https://help.aliyun.com/document_detail/25429.html?spm=a2c4g.11186623.6.623.51332529mpuPtf)
+1. [【node】阿里云node环境的搭建以及安全组的配置](https://blog.csdn.net/dangbai01_/article/details/102821023)
 1. [使用SSH密钥对连接Linux实例](https://help.aliyun.com/document_detail/51798.html)
 1. [SSH连接下复制远程Linux服务器文件到本地](https://www.cnblogs.com/zhuangliu/p/7610530.html)（这里需要注意的是，应该是在本地机器上执行scp命令，而不是在用SSH连接到的远程服务器上。此外，如果远程服务器需要密钥对进行登录，则还需要加上 `-i xxx.pem` 命令选项。）
 1. [SCP 命令](https://www.cnblogs.com/hitwtx/archive/2011/11/16/2251254.html)
