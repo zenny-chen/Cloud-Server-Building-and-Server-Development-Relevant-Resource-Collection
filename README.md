@@ -26,7 +26,6 @@
 1. [Ubuntu安装并运行XAMPP](http://wiki.ubuntu.com.cn/Xampp)（XAMPP存放网页的默认路径为：`/opt/lampp/htdocs/`）
 1. [android APP实现更新 PHP后台服务器](http://www.bieryun.com/2558.html)
 1. [meson-build官网](http://mesonbuild.com)
-1. [各系统下配置安装shadowsocks](https://www.linode.com/docs/networking/vpn/create-a-socks5-proxy-server-with-shadowsocks-on-ubuntu-and-centos7/)
 1. [Git超实用总结，再也不怕记忆力不好了](https://www.toutiao.com/i6617306717652779523)
 1. [为什么在单向数据流使用SSE而不是WebSockets？](https://www.toutiao.com/i6632815166536811011)
 1. [高并发架构系列：数据库主从同步的3种一致性方案实现，优劣比较](https://www.toutiao.com/i6628095284394066435)
@@ -34,6 +33,7 @@
 1. [干货：分库分表理论和各种中间件](https://www.toutiao.com/i6669166118688522759)
 1. [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
 1. [了解Nginx](https://www.toutiao.com/a6648408415490032131)
+1. [Linux下如何用nginx+ffmpeg搭建流媒体服务器](https://www.toutiao.com/a6770194402091467276/)
 1. [SQL 查询优化原理与 Volcano Optimizer 介绍](https://www.toutiao.com/a6637639566792589832)
 1. [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
 1. [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
@@ -41,6 +41,7 @@
 1. [Web常见安全漏洞-SQL注入](https://www.toutiao.com/a6642850219375460868)
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
 1. [Mongodb 语句与SQL 语句对比](https://www.toutiao.com/a6775740551288324619/)
+1. [数据库索引原理及优化，这篇文章看完你还不懂就来找我](https://www.toutiao.com/a6763603471556936204/)
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
 1. [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
 1. [支撑百万并发的“零拷贝”技术，你了解吗？](https://www.toutiao.com/a6740157590468035085/)
