@@ -40,6 +40,7 @@
 1. [SQLite3速度慢，每秒只能执行几十次INSERT？](https://www.toutiao.com/a6731130448530899463)
 1. [Web常见安全漏洞-SQL注入](https://www.toutiao.com/a6642850219375460868)
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
+1. [Mongodb 语句与SQL 语句对比](https://www.toutiao.com/a6775740551288324619/)
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
 1. [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
 1. [支撑百万并发的“零拷贝”技术，你了解吗？](https://www.toutiao.com/a6740157590468035085/)
