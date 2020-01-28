@@ -6,7 +6,6 @@
 ### 有用的参考链接
 
 1. [用亚马逊云建代理服务器](https://www.cnblogs.com/vamei/p/5302707.html)
-1. [How to use ShadowsocksX on Mac](https://www.sednax.com/faq-0.php)（step 4右边那里选edit Servers,然后添加一个，服务名填 ***<亚马逊服务器上配置的代理服务器域名>*** ，端口填8050，加密方式选chacha20，密码填之前所配置的密码）
 1. [阿里云建站教程](https://help.aliyun.com/document_detail/57160.html?spm=a2c4g.11186623.6.826.1fb27aeehHNuFX)
 1. [阿里云用户指南](https://help.aliyun.com/document_detail/25429.html?spm=a2c4g.11186623.6.623.51332529mpuPtf)
 1. [【node】阿里云node环境的搭建以及安全组的配置](https://blog.csdn.net/dangbai01_/article/details/102821023)
@@ -28,13 +27,13 @@
 1. [meson-build官网](http://mesonbuild.com)
 1. [Git超实用总结，再也不怕记忆力不好了](https://www.toutiao.com/i6617306717652779523)
 1. [为什么在单向数据流使用SSE而不是WebSockets？](https://www.toutiao.com/i6632815166536811011)
+1. [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
+1. [了解Nginx](https://www.toutiao.com/a6648408415490032131)
+1. [Linux下如何用nginx+ffmpeg搭建流媒体服务器](https://www.toutiao.com/a6770194402091467276/)
 1. [高并发架构系列：数据库主从同步的3种一致性方案实现，优劣比较](https://www.toutiao.com/i6628095284394066435)
 1. [优秀后端架构师必会知识：史上最全MySQL大表优化方案总结](http://www.52im.net/thread-2157-1-1.html)
 1. [干货：分库分表理论和各种中间件](https://www.toutiao.com/i6669166118688522759)
 1. [分库分表技术演进&最佳实践-修订篇](https://www.itcodemonkey.com/article/10048.html)
-1. [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
-1. [了解Nginx](https://www.toutiao.com/a6648408415490032131)
-1. [Linux下如何用nginx+ffmpeg搭建流媒体服务器](https://www.toutiao.com/a6770194402091467276/)
 1. [SQL 查询优化原理与 Volcano Optimizer 介绍](https://www.toutiao.com/a6637639566792589832)
 1. [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
 1. [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
@@ -43,6 +42,7 @@
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
 1. [Mongodb 语句与SQL 语句对比](https://www.toutiao.com/a6775740551288324619/)
 1. [数据库索引原理及优化，这篇文章看完你还不懂就来找我](https://www.toutiao.com/a6763603471556936204/)
+1. [原来redis这么简单，跟着文章操作一遍你就会了](https://www.toutiao.com/a6753473284043440648/)
 1. [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
 1. [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
 1. [支撑百万并发的“零拷贝”技术，你了解吗？](https://www.toutiao.com/a6740157590468035085/)
