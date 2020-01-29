@@ -59,6 +59,7 @@
 1. [TCP/IP协议、HTTP协议、SOCKET通讯详解](https://www.toutiao.com/a6723084045455983107)
 1. [CentOS7 SELinux似乎不遵守MCS类别](http://www.voidcn.com/article/p-fwwjvxnf-bub.html)
 1. [译」Linux下SELinux卡通图解，豁然开悟](https://www.toutiao.com/a6745339611385430531/)
+1. [在架构师眼中构建一个较为通用的业务技术架构就是如此简单](https://www.toutiao.com/a6757274451122848267/)
 1. [架构设计：基于Webrtc、Kurento的一种低延迟架构实现](https://www.toutiao.com/i6772405491998917128/)
 1. [常用的互联网架构模式，都在这里了](https://www.toutiao.com/i6733051091526615565/)
 1. [微信、陌陌等著名IM软件设计架构详解](https://www.toutiao.com/a6757601400693195268/)
