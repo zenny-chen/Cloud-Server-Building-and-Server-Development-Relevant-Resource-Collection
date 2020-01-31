@@ -30,6 +30,7 @@
 1. [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
 1. [了解Nginx](https://www.toutiao.com/a6648408415490032131)
 1. [Linux下如何用nginx+ffmpeg搭建流媒体服务器](https://www.toutiao.com/a6770194402091467276/)
+1. [M3U8 视频文件](https://www.toutiao.com/a6788082464502841863/)
 1. [高并发架构系列：数据库主从同步的3种一致性方案实现，优劣比较](https://www.toutiao.com/i6628095284394066435)
 1. [优秀后端架构师必会知识：史上最全MySQL大表优化方案总结](http://www.52im.net/thread-2157-1-1.html)
 1. [干货：分库分表理论和各种中间件](https://www.toutiao.com/i6669166118688522759)
