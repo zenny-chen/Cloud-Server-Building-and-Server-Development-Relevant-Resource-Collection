@@ -12,14 +12,6 @@
 1. [使用SSH密钥对连接Linux实例](https://help.aliyun.com/document_detail/51798.html)
 1. [SSH连接下复制远程Linux服务器文件到本地](https://www.cnblogs.com/zhuangliu/p/7610530.html)（这里需要注意的是，应该是在本地机器上执行scp命令，而不是在用SSH连接到的远程服务器上。此外，如果远程服务器需要密钥对进行登录，则还需要加上 `-i xxx.pem` 命令选项。）
 1. [SCP 命令](https://www.cnblogs.com/hitwtx/archive/2011/11/16/2251254.html)
-1. [Linux 下载文件命令](https://blog.csdn.net/hitabc141592/article/details/7561239)
-1. [Linux curl命令详解](https://www.cnblogs.com/duhuo/p/5695256.html)
-1. [Linux下的tar压缩解压缩命令详解](https://www.cnblogs.com/qq78292959/archive/2011/07/06/2099427.html)
-1. Linux下使用zip来压缩文件夹：`zip -r dst_file.zip src_folder_path`
-1. [Linux下的mv命令](https://www.cnblogs.com/peida/archive/2012/10/27/2743022.html)
-1. [vi 常用命令行](https://www.cnblogs.com/sunormoon/archive/2012/02/10/2345326.html)（文件保存退出一般使用`:x`命令）
-1. [Linux文件查找命令](https://blog.csdn.net/qq_27517377/article/details/78870293)
-1. [Linux系统下查看文件与磁盘空间大小](https://www.cnblogs.com/adolfmc/archive/2013/02/16/2913801.html)
 1. [Ubuntu下安装LAMP](https://help.ubuntu.com/community/ApacheMySQLPHP)（LAMP存放网页的默认路径为：`/var/www/html/`）
 1. [XAMPP官方网站](https://www.apachefriends.org/index.html)
 1. [Ubuntu安装并运行XAMPP](http://wiki.ubuntu.com.cn/Xampp)（XAMPP存放网页的默认路径为：`/opt/lampp/htdocs/`）
