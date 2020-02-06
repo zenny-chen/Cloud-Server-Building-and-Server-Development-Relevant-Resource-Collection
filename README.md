@@ -59,6 +59,7 @@
 1. [译」Linux下SELinux卡通图解，豁然开悟](https://www.toutiao.com/a6745339611385430531/)
 1. [在架构师眼中构建一个较为通用的业务技术架构就是如此简单](https://www.toutiao.com/a6757274451122848267/)
 1. [架构设计：基于Webrtc、Kurento的一种低延迟架构实现](https://www.toutiao.com/i6772405491998917128/)
+1. [MQTT, XMPP, WebSockets还是AMQP？泛谈实时通信协议选型](https://www.toutiao.com/i6436181088854344193/)
 1. [常用的互联网架构模式，都在这里了](https://www.toutiao.com/i6733051091526615565/)
 1. [微信、陌陌等著名IM软件设计架构详解](https://www.toutiao.com/a6757601400693195268/)
 1. [当在浏览器中输入google.com并且按下回车之后发生了什么](https://www.toutiao.com/i6783278927340110347/)
