@@ -38,6 +38,7 @@
 1. [从 MySQL 执行原理告诉你：为什么分页场景下，请求速度非常慢？](https://www.toutiao.com/a6767589208853840396/)
 1. [令人抓破头皮的MySQL线程池，这也许是目前最全面的实用帖](https://www.toutiao.com/a6790558159418163716/)
 1. [MySQL新特性之哈希连接](https://www.toutiao.com/a6790532843870093827/)
+1. [一次SQL查询优化原理分析（900W+数据，从17s到300ms）](https://www.jianshu.com/p/0768ebc4e28d)
 1. [Web常见安全漏洞-SQL注入](https://www.toutiao.com/a6642850219375460868)
 1. [Java高级编程——慢 SQL 问题经验总结](https://www.toutiao.com/i6563960299454464526)
 1. [Mongodb 语句与SQL 语句对比](https://www.toutiao.com/a6775740551288324619/)
