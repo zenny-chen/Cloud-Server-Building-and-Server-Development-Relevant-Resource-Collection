@@ -26,6 +26,7 @@
 1. [RTMP、HTTP-FLV、HLS，你了解常见的三大直播协议吗](https://www.toutiao.com/a6788676521599959563/)
 1. [高并发架构系列：数据库主从同步的3种一致性方案实现，优劣比较](https://www.toutiao.com/i6628095284394066435)
 1. [多位大佬大胆预测：Hadoop将死，图数据库成为新趋势！](https://www.toutiao.com/i6497878265280070157/)
+1. [5大数据库种类，如果你全部在实际项目中用过，绝对是大神！](https://www.toutiao.com/i6524672878493827588/)
 1. [优秀后端架构师必会知识：史上最全MySQL大表优化方案总结](http://www.52im.net/thread-2157-1-1.html)
 1. [干货：分库分表理论和各种中间件](https://www.toutiao.com/i6669166118688522759)
 1. [分库分表技术演进&最佳实践-修订篇](https://www.itcodemonkey.com/article/10048.html)
