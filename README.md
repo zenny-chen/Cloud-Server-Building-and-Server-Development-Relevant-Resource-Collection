@@ -35,6 +35,7 @@
 1. [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
 1. [简简单单SELECT COUNT语句，竟被面试官吊起来锤](https://www.toutiao.com/a6790650338174042632/)
 1. [SQLite3速度慢，每秒只能执行几十次INSERT？](https://www.toutiao.com/a6731130448530899463)
+1. [Mysql高性能优化规范建议](https://www.cnblogs.com/huchong/p/10219318.html)
 1. [这篇文章有点长，MySQL的缓存，索引，Explain，事务，redo日志等](https://www.toutiao.com/a6782438903254090247/)
 1. [从 MySQL 执行原理告诉你：为什么分页场景下，请求速度非常慢？](https://www.toutiao.com/a6767589208853840396/)
 1. [令人抓破头皮的MySQL线程池，这也许是目前最全面的实用帖](https://www.toutiao.com/a6790558159418163716/)
