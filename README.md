@@ -30,6 +30,7 @@
 1. [优秀后端架构师必会知识：史上最全MySQL大表优化方案总结](http://www.52im.net/thread-2157-1-1.html)
 1. [干货：分库分表理论和各种中间件](https://www.toutiao.com/i6669166118688522759)
 1. [分库分表技术演进&最佳实践-修订篇](https://www.itcodemonkey.com/article/10048.html)
+1. [面试总被问分库分表怎么办？你可以这样怼他](https://www.toutiao.com/i6798081466690437646/)
 1. [SQL 查询优化原理与 Volcano Optimizer 介绍](https://www.toutiao.com/a6637639566792589832)
 1. [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
 1. [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
