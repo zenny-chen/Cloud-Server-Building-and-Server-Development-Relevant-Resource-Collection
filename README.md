@@ -21,6 +21,7 @@
 - [为什么在单向数据流使用SSE而不是WebSockets？](https://www.toutiao.com/i6632815166536811011)
 - [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
 - [了解Nginx](https://www.toutiao.com/a6648408415490032131)
+- [Kubernetes operator 模式开发实践 ](https://mp.weixin.qq.com/s/7LnQnASGHx8llfemfL1eQw)
 - [Linux下如何用nginx+ffmpeg搭建流媒体服务器](https://www.toutiao.com/a6770194402091467276/)
 - [M3U8 视频文件](https://www.toutiao.com/a6788082464502841863/)
 - [RTMP、HTTP-FLV、HLS，你了解常见的三大直播协议吗](https://www.toutiao.com/a6788676521599959563/)
