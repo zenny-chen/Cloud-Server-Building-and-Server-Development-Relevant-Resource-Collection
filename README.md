@@ -27,6 +27,7 @@
 - [RTMP、HTTP-FLV、HLS，你了解常见的三大直播协议吗](https://www.toutiao.com/a6788676521599959563/)
 - [高并发架构系列：数据库主从同步的3种一致性方案实现，优劣比较](https://www.toutiao.com/i6628095284394066435)
 - [高并发环境下，先操作数据库还是先操作缓存？](https://www.toutiao.com/a6792750510622376460/)
+- [详谈什么是Service Mesh技术？](https://blog.csdn.net/xcbeyond/article/details/104666772)
 - [多位大佬大胆预测：Hadoop将死，图数据库成为新趋势！](https://www.toutiao.com/i6497878265280070157/)
 - [5大数据库种类，如果你全部在实际项目中用过，绝对是大神！](https://www.toutiao.com/i6524672878493827588/)
 - [优秀后端架构师必会知识：史上最全MySQL大表优化方案总结](http://www.52im.net/thread-2157-1-1.html)
