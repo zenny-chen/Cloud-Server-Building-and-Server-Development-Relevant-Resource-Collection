@@ -98,6 +98,7 @@
 - [现代IM系统中消息推送和存储架构的实现](https://www.toutiao.com/i6489211231558173197/)
 - [微信、陌陌等著名IM软件设计架构详解](https://www.toutiao.com/a6757601400693195268/)
 - [支付宝架构师眼中的高并发架构](https://www.toutiao.com/a6759050053710512647/)
+- [【高并发】高并发秒杀系统架构解密，不是所有的秒杀都是秒杀！](https://www.cnblogs.com/binghe001/p/12663557.html)
 - [当在浏览器中输入google.com并且按下回车之后发生了什么](https://www.toutiao.com/i6783278927340110347/)
 - [今日头条算法原理（全文）](https://www.toutiao.com/i6511211182064402951/)
 
