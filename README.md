@@ -54,6 +54,7 @@
 - [原来redis这么简单，跟着文章操作一遍你就会了](https://www.toutiao.com/a6753473284043440648/)
 - [Redis数据过期和淘汰策略详解](https://www.toutiao.com/i6490458529822933518/)
 - [Redis大数据应用场景](https://www.toutiao.com/i6496000824290837006/)
+- [Redis zset内部实现](https://www.toutiao.com/a6815007981030081028/)
 - [浅谈集群版Redis和Gossip协议，它们之间的联系及用法](https://www.toutiao.com/a6766461853540286980/)
 - [redis 延时队列](https://www.toutiao.com/a6758017392510501380/)
 - [头条面试题：请谈谈Redis 9种数据结构以及它们的内部编码实现](https://www.toutiao.com/a6780886836198769163/)
