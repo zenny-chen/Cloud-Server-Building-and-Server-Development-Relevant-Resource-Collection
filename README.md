@@ -95,6 +95,7 @@
 - [一、Kafka初探](https://www.toutiao.com/i6510942002136220168/)
 - [后 Hadoop 时代的大数据技术思考：数据即服务](https://www.toutiao.com/i6499990248494203406/)
 - [手把手教你玩转大数据，从0开始搭建Hadoop分布式集群](https://www.toutiao.com/i6508626599716323848/)
+- [Hive为什么这么受欢迎？看完Hive架构以及应用介绍，你就明白了！](https://www.toutiao.com/a6818782223722873352/)
 - [Docker的另类用法，就是这么简单粗暴](https://www.toutiao.com/i6434742616260084226/)
 - [DevOps系列｜Docker是传统应用发布管理的终结者吗？](https://www.toutiao.com/i6454770595316892173/)
 - [每周五分钟 带你进阿里——Spring AOP 原理](https://www.toutiao.com/i6510830035824280072/)
