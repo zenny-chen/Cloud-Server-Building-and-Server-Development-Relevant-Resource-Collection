@@ -61,6 +61,7 @@
 - [redis 延时队列](https://www.toutiao.com/a6758017392510501380/)
 - [Redis缓存设计与性能优化](https://www.toutiao.com/a6809457659134083595/)
 - [头条面试题：请谈谈Redis 9种数据结构以及它们的内部编码实现](https://www.toutiao.com/a6780886836198769163/)
+- [一次内存性能提升的项目实践](https://www.toutiao.com/a6820555957924266499/)
 - [memcache内核，一文搞定！面试再也不怕了](https://www.toutiao.com/i6744501481052832259/)
 - [DB与ES混合应用之数据离线同步](https://www.toutiao.com/a6812437413097374211/)
 - [RPC总结——RPC定义和原理，一篇就够了](https://www.toutiao.com/a6638560261215093255)
