@@ -37,6 +37,7 @@
 - [干货：分库分表理论和各种中间件](https://www.toutiao.com/i6669166118688522759)
 - [分库分表技术演进&最佳实践-修订篇](https://www.itcodemonkey.com/article/10048.html)
 - [面试总被问分库分表怎么办？你可以这样怼他](https://www.toutiao.com/i6798081466690437646/)
+- [缓冲池(buffer pool)，这次彻底懂了！！！](https://www.toutiao.com/a6822045201389847047/)
 - [SQL 查询优化原理与 Volcano Optimizer 介绍](https://www.toutiao.com/a6637639566792589832)
 - [一次SQL查询优化原理分析（900W+数据，从17s到300ms）](https://www.jianshu.com/p/0768ebc4e28d)
 - [慢查询优化，我终于在生产踩到了这个坑！！](https://blog.csdn.net/youanyyou/article/details/105671840)
