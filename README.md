@@ -44,6 +44,8 @@
 - [select count(1) 和 count(*)，哪个性能更好？一起来测试一下](https://www.toutiao.com/a6723051447987995144)
 - [用sql写迭代算法-用spark sql划分连通图](https://www.toutiao.com/a6821478086626771470/)
 - [简简单单SELECT COUNT语句，竟被面试官吊起来锤](https://www.toutiao.com/a6790650338174042632/)
+- [SQL 查找是否"存在"，别再 count 了，很耗费时间的](https://www.toutiao.com/a6850030655045108231/)
+- [简简单单SELECT COUNT语句，竟被面试官吊起来锤](https://www.toutiao.com/a6790650338174042632/)
 - [因用了Insert into select语句，码农被开除了](https://www.toutiao.com/a6826955004604056071/)
 - [SQLite3速度慢，每秒只能执行几十次INSERT？](https://www.toutiao.com/a6731130448530899463)
 - [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
