@@ -31,6 +31,7 @@
 - [ReentrantLock之公平锁讲解和实现](https://www.toutiao.com/i6891909510701515268/)
 - [【并发编程】浅析重入锁ReentrantLock与读写锁ReadWriteLock](https://blog.csdn.net/KAIZ_LEARN/article/details/109498273)
 - [浅谈分布式锁：安全与性能的取舍之道](https://blog.csdn.net/weixin_43705457/article/details/107556455)
+- [Intel DPDK 简介（上篇）](https://www.toutiao.com/article/7181389849184830011/)
 - [深入理解DPDK-同步互斥机制详解](https://www.toutiao.com/i7063363922740527654/)
 - [dpdk源码分析之dpdk的中断机制详解](https://www.toutiao.com/article/7100085130936566310/)
 - [高并发环境下，先操作数据库还是先操作缓存？](https://www.toutiao.com/a6792750510622376460/)
