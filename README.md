@@ -145,6 +145,7 @@
 - [支付宝架构师眼中的高并发架构](https://www.toutiao.com/a6759050053710512647/)
 - [提升网站性能开发的10个技巧](http://www.csdn.net/article/2015-10-20/2825960-web)
 - [【高并发】高并发秒杀系统架构解密，不是所有的秒杀都是秒杀！](https://www.cnblogs.com/binghe001/p/12663557.html)
+- [一文搞清楚限流、熔断和降级](https://www.toutiao.com/article/7224326918416450081/)
 - [大型网站架构改进历程：存储的瓶颈（一）](http://www.csdn.net/article/2015-01-22/2823669/1)
 - [大型网站架构——性能](http://www.csdn.net/article/2015-02-26/2824026?reload=1)
 - [当在浏览器中输入google.com并且按下回车之后发生了什么](https://www.toutiao.com/i6783278927340110347/)
