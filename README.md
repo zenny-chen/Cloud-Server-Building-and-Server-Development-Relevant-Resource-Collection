@@ -55,6 +55,7 @@
 - [SQL 查找是否"存在"，别再 count 了，很耗费时间的](https://www.toutiao.com/a6850030655045108231/)
 - [简简单单SELECT COUNT语句，竟被面试官吊起来锤](https://www.toutiao.com/a6790650338174042632/)
 - [因用了Insert into select语句，码农被开除了](https://www.toutiao.com/a6826955004604056071/)
+- [你是否应该选择使用 `EXIST` 替代 `IN`？](https://www.toutiao.com/w/1786522405606474/)
 - [SQLite3速度慢，每秒只能执行几十次INSERT？](https://www.toutiao.com/a6731130448530899463)
 - [记住，永远不要在MySQL中使用“utf8”编码](https://www.toutiao.com/i6571196568651694596)
 - [Mysql高性能优化规范建议](https://www.cnblogs.com/huchong/p/10219318.html)
