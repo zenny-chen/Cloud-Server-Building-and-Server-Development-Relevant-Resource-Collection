@@ -74,6 +74,7 @@
 - [RocksDB事务实现TransactionDB分析](https://www.toutiao.com/i6491156634704806413/)
 - [怎样应对缓存穿透？](https://www.toutiao.com/a6757977498794869255/)
 - [一文读懂缓存穿透、缓存击穿、缓存雪崩及其解决方法](https://www.toutiao.com/article/7088132873051488780/)
+- [高并发场景下缓存穿透、并发填充与一致性问题的解决方案](https://www.toutiao.com/article/7376087045891998208/)
 - [原来redis这么简单，跟着文章操作一遍你就会了](https://www.toutiao.com/a6753473284043440648/)
 - [Redis数据过期和淘汰策略详解](https://www.toutiao.com/i6490458529822933518/)
 - [Redis大数据应用场景](https://www.toutiao.com/i6496000824290837006/)
