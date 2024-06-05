@@ -118,6 +118,7 @@
 - [跨域问题是怎样造成的？](https://www.toutiao.com/a6820782222480507403/)
 - [web API接口及restful规范详解](https://www.toutiao.com/i6765037394476401160/)
 - [web跨域问题详解](https://www.toutiao.com/a6861956929884062222/)
+- [告别轮询，SSE 流式传输可太香了！](https://www.toutiao.com/article/7376481700324360719/)
 - [深入理解 FastCGI 协议以及在 PHP 中的实现](https://www.toutiao.com/i6550155500770558468/)
 - [现代IM系统中的消息系统架构 - 架构篇](https://www.toutiao.com/a6680340703756681739)
 - [架构师之路，分布式架构下数据库一致性常用方法初探](https://www.toutiao.com/a6686234404995465736/)
