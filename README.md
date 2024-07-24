@@ -103,6 +103,7 @@
 - [Google如何在一毫秒内找到你想要的上百万份文档？](https://www.toutiao.com/a6857352516854612484/)
 - [Raft 算法摘要](https://www.toutiao.com/a6818777382388761091/)
 - [Flink 必知必会经典课程四：Fault-tolerance in Flink](https://developer.aliyun.com/article/782826)
+- [谈谈InfiniBand和Ethernet网络的差异](https://zhuanlan.zhihu.com/p/163104439)
 - [为什么 TCP/IP 协议会拆分数据](https://www.toutiao.com/article/7097135089716445737/)
 - [https你用对了吗？](https://www.toutiao.com/i6514165565953671693/)
 - [HTTPS 原理分析——带着疑问层层深入](https://www.toutiao.com/a6764641939645006340/)
