@@ -19,6 +19,7 @@
 - [meson-build官网](http://mesonbuild.com)
 - [三万字长文：服务器开发设计之算法宝典](https://www.toutiao.com/i7047085871941632545/)
 - [为什么在单向数据流使用SSE而不是WebSockets？](https://www.toutiao.com/i6632815166536811011)
+- [字节跳动开源Linux内核网络抓包工具netcap](https://mp.weixin.qq.com/s?__biz=Mzg3Mjg2NjU4NA==&mid=2247485050&idx=1&sn=6b18af60f6dd6c890da8721368cb6525)
 - [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
 - [了解Nginx](https://www.toutiao.com/a6648408415490032131)
 - [Kubernetes operator 模式开发实践 ](https://mp.weixin.qq.com/s/7LnQnASGHx8llfemfL1eQw)
