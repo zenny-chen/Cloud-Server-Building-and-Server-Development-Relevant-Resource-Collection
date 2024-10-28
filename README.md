@@ -17,6 +17,8 @@
 - [Ubuntu安装并运行XAMPP](http://wiki.ubuntu.com.cn/Xampp)（XAMPP存放网页的默认路径为：`/opt/lampp/htdocs/`）
 - [android APP实现更新 PHP后台服务器](http://www.bieryun.com/2558.html)
 - [meson-build官网](http://mesonbuild.com)
+- [局域网拓扑结构](https://baike.baidu.com/item/%E5%B1%80%E5%9F%9F%E7%BD%91%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84/10183336?fromtitle=%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84&fromid=4136060)
+- [Network topology](https://en.wikipedia.org/wiki/Network_topology)
 - [三万字长文：服务器开发设计之算法宝典](https://www.toutiao.com/i7047085871941632545/)
 - [为什么在单向数据流使用SSE而不是WebSockets？](https://www.toutiao.com/i6632815166536811011)
 - [字节跳动开源Linux内核网络抓包工具netcap](https://mp.weixin.qq.com/s?__biz=Mzg3Mjg2NjU4NA==&mid=2247485050&idx=1&sn=6b18af60f6dd6c890da8721368cb6525)
