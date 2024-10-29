@@ -99,6 +99,7 @@
 - [分布式之几种简单的负载均衡算法及其Java代码实现](https://www.toutiao.com/a6657468476216574477)
 - [支撑百万并发的“零拷贝”技术，你了解吗？](https://blog.csdn.net/wypblog/article/details/101731752)
 - [高速网络的未来：解析零拷贝Zero-Copy架构](https://zhuanlan.zhihu.com/p/640488719)
+- [sendfile 和 epoll](https://blog.csdn.net/amaowolf/article/details/7418792)
 - [高并发服务器IO模型](https://www.toutiao.com/a6818067136854884868/)
 - [网络 IO 演变发展过程和模型介绍](https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649756681&idx=1&sn=b9ce565bedca42cd824d3414bc01d98e&chksm=becc877289bb0e641f30aeb5b256ea1e187dc446a59fe4b7f76323cd7a02df1a99aedc5a1f5b&scene=23&srcid=02246aP9rikyXf5WswpcT0oq)
 - [时间轮(Timing Wheel)](https://www.toutiao.com/w/1765699778832388/)
