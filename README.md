@@ -20,6 +20,7 @@
 - [局域网拓扑结构](https://baike.baidu.com/item/%E5%B1%80%E5%9F%9F%E7%BD%91%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84/10183336?fromtitle=%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91%E7%BB%93%E6%9E%84&fromid=4136060)
 - [Network topology](https://en.wikipedia.org/wiki/Network_topology)
 - [三万字长文：服务器开发设计之算法宝典](https://www.toutiao.com/i7047085871941632545/)
+- [软件架构五大模式详解](https://mp.weixin.qq.com/s?__biz=MzkxMDU2NDQyNg==&mid=2247484237&idx=1&sn=9ba14ad08f5ff49142286bd42aa87d2e)
 - [为什么在单向数据流使用SSE而不是WebSockets？](https://www.toutiao.com/i6632815166536811011)
 - [字节跳动开源Linux内核网络抓包工具netcap](https://mp.weixin.qq.com/s?__biz=Mzg3Mjg2NjU4NA==&mid=2247485050&idx=1&sn=6b18af60f6dd6c890da8721368cb6525)
 - [一起来学Nginx](https://www.toutiao.com/i6576169624675549703)
