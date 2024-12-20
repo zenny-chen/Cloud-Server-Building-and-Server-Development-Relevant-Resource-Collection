@@ -135,6 +135,8 @@
 - [TCP/IP协议、HTTP协议、SOCKET通讯详解](https://www.toutiao.com/a6723084045455983107)
 - [为什么 TCP/IP 协议会拆分数据](https://www.toutiao.com/article/7097135089716445737/)
 - [RUDP传输那些事儿](https://zhuanlan.zhihu.com/p/30770889)
+- [Reliable User Datagram Protocol (RUDP)](https://www.geeksforgeeks.org/reliable-user-datagram-protocol-rudp/)
+- [Reliable UDP (RUDP)](https://github.com/ms-s/rudp)
 - [Linux C Socket UDP编程介绍及实例](https://blog.csdn.net/lell3538/article/details/53335472)
 - [CentOS7 SELinux似乎不遵守MCS类别](http://www.voidcn.com/article/p-fwwjvxnf-bub.html)
 - [译」Linux下SELinux卡通图解，豁然开悟](https://www.toutiao.com/a6745339611385430531/)
