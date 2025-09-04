@@ -28,6 +28,7 @@
 - [Kubernetes operator 模式开发实践 ](https://mp.weixin.qq.com/s/7LnQnASGHx8llfemfL1eQw)
 - [Kubernetes Ingress 控制器的技术选型技巧](https://www.toutiao.com/a6797286088848179716/)
 - [Linux下如何用nginx+ffmpeg搭建流媒体服务器](https://www.toutiao.com/a6770194402091467276/)
+- [使用 Agones 在 TKE 上部署游戏专用服务器](https://cloud.tencent.com/developer/article/2493254)
 - [M3U8 视频文件](https://www.toutiao.com/a6788082464502841863/)
 - [RTMP、HTTP-FLV、HLS，你了解常见的三大直播协议吗](https://www.toutiao.com/a6788676521599959563/)
 - [高并发架构系列：数据库主从同步的3种一致性方案实现，优劣比较](https://www.toutiao.com/i6628095284394066435)
